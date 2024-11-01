@@ -1,6 +1,6 @@
-print("load the script!!")
+print("load the script 😻")
 wait(2)
-print("script is running wait a 1 second")
+print("script is running wait a 1 second and wait")
 wait(1)
 if _G.Ran == true then return end
 wait()
